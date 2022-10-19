@@ -1,4 +1,4 @@
-# Education-wensite
+# Education-website
 
 ## Languages
 
