@@ -9,8 +9,3 @@
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  
-  
-## Resources:
-
-Animate css,  
-Wow.js
