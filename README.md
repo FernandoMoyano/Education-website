@@ -18,9 +18,8 @@
  
  ### _Style Guide
  
- ``` css
-   
- --red-orange-color-wheel: hsl(15, 100%, 55%);
+ ``` css 
+    --red-orange-color-wheel: hsl(15, 100%, 55%);
     --ultramarine-blue: hsl(217, 100%, 50%);
     --lavander-blue: hsl(229, 96%, 91%);
     --oxford-blue: hsl(229, 96%, 12%);
@@ -28,8 +27,7 @@
     --sonic-silver: hsl(0, 0%, 47%);
     --blue-crayola: hsl(216, 98%, 52%);
     --cultured: hsl(228, 26%, 96%);
-    --white: hsl(0, 0%, 100%);
-    
+    --white: hsl(0, 0%, 100%);  
     ```
  
 
