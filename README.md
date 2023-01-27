@@ -17,6 +17,11 @@
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
  
+ ## _Resources_
+ [Ionicons](https://ionic.io/ionicons/v2/)
+ >The premium icon font for Ionic Framework.
+ 100% free and open source. MIT Licensed.
+ 
  ## _Style Guide_
  
  ### _Colors_
