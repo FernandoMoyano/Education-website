@@ -14,7 +14,7 @@
  
  </div>
  
- ## style Guide
+ ## Style Guide
  
 
  
