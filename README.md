@@ -1,4 +1,7 @@
-# Education-website
+# _Education-website_
+
+ ## View Deployment
+ [Go to the Site](https://fernandomoyano.github.io/Education-website/)
 
 ## Languages
 
@@ -11,6 +14,5 @@
  
  </div>
  
- ## View Deployment
- https://fernandomoyano.github.io/Education-website/
+
  
