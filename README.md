@@ -16,7 +16,9 @@
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
  
- ### _Style Guide_
+ ## _Style Guide_
+ 
+ ### _Colors_
  
  ``` css 
     --red-orange-color-wheel: hsl(15, 100%, 55%);
@@ -29,6 +31,35 @@
     --cultured: hsl(228, 26%, 96%);
     --white: hsl(0, 0%, 100%);  
  ```
+ 
+ ### _Tipography_
+ 
+ ``` css
+    --fs-1: 38px;
+    --fs-2: 35px;
+    --fs-3: 30px;
+    --fs-4: 22px;
+    --fs-5: 20px;
+    --fs-6: 15px;
+
+    --fw-5: 500;
+    --fw-6: 600;
+    --fw-7: 700;
+    --fw-8: 800;
+    --fw-9: 900;
+ ``` 
+ 
+ ### _Spacing_
+ ``` css
+    --px: 15px;
+    --py: 80px;
+ ``` 
+ 
+ ### _Transition_
+ ``` css
+   --default-transition: 0.25 ease;
+ ```
+ 
  
 
  
