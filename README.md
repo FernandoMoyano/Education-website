@@ -6,7 +6,7 @@
  ### _View Deployment_
  [Go to the Site](https://fernandomoyano.github.io/Education-website/)
 
-## _Languages_
+### _Languages_
 
 <link rel="stylesheet" href="devicon.min.css">
 <div "style=inline_block"><br>
