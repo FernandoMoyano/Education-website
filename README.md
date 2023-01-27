@@ -14,9 +14,23 @@
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- 
  </div>
  
+ ### _Style Guide
+ 
+ ``` css
+   
+ --red-orange-color-wheel: hsl(15, 100%, 55%);
+    --ultramarine-blue: hsl(217, 100%, 50%);
+    --lavander-blue: hsl(229, 96%, 91%);
+    --oxford-blue: hsl(229, 96%, 12%);
+    --light-gray: hsl(0, 0%, 80%);
+    --sonic-silver: hsl(0, 0%, 47%);
+    --blue-crayola: hsl(216, 98%, 52%);
+    --cultured: hsl(228, 26%, 96%);
+    --white: hsl(0, 0%, 100%);
+    
+    ```
  
 
  
