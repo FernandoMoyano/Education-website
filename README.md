@@ -1,5 +1,8 @@
 # _Education-website_
 
+### _Description_
+>This website represents a platform to participate in online courses. Within it we find a section About, Courses where we can see instructors, prices and reputation of each one, it also contains a blog and contact section. At the end there is a footer with relevant information.
+
  ## View Deployment
  [Go to the Site](https://fernandomoyano.github.io/Education-website/)
 
