@@ -16,7 +16,7 @@
  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
  
- ### _Style Guide
+ ### _Style Guide_
  
  ``` css 
     --red-orange-color-wheel: hsl(15, 100%, 55%);
